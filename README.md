@@ -10,5 +10,5 @@
 ---
 
 ### 💕Credit
-- Made By (Axo)[https://discord.gg/codersplanet]
+- Made By [Axo](https://discord.gg/codersplanet)
 - Modified By @Krishna - .gg/zeondevs
